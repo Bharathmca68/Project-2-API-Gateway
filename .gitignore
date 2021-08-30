@@ -1,0 +1,13 @@
+/service-a/node_modules
+/service-a/package-lock.json
+/service-a/dist
+
+
+/api-gateway/node_modules
+/api-gateway/package-lock.json
+/api-gateway/dist
+
+
+/service-b/node_modules
+/service-b/package-lock.json
+/service-b/dist
